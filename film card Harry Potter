@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous"> -->
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" href="./css/bootstrap.css">
+    <link rel="stylesheet" href="./css/bootstrap-reboot.css">
+    <link rel="stylesheet" href="./css/bootstrap-grid.css">
+
+
+
+    <title>Cinematic</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container" style="padding-left: 0px;">
+            <a class="navbar-brand" href="index.html">
+                <img class="img" src="assets/лого.jpg" alt="Italian Trulli"
+                    style="height:30px;width:30px;margin-right: 10px;">
+                CINEMATIC
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="films.html">Films</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contacts.html">Contacts</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="about-us.html">About us</a>
+                    </li>
+                </ul>
+                <form class="form-inline my-2 my-lg-0">
+                    <div class="input-group">
+                        <input type="search" class="form-control" placeholder="Search for anything"
+                            style="width: 450px;">
+                        <div class="input-group-prepend">
+                            <a class="input-group-text" href="Results.html"><img src="assets/lupa.png"
+                                    alt="Italian Trulli"></a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <form>
+            <br>
+            <div class="row" style="padding-left:0%;padding-right:0%">
+                <h3 style="color: #FFFFFF;">
+                    <font face="Tahoma Regular">About film...</font>
+                </h3>
+            </div>
+            <br>
+               <div class="row"> <!-- фильм начало -->
+    <div class="col-md-4">
+         <div class="image">
+              <img class="img-fluid" src="assets/Harry Potter.jpg" alt="The Harry Potter">
+            </div>
+    </div>
+    <div class="col-md-6">
+         <h3><font color="#ffffff">
+    The Harry Potter </font></h3>
+	<h6>
+         <font face="Myriad Pro Italic">
+			<br>
+			<p> Directed by: Chris Columbus (1–2), Alfonso Cuarón (3), Mike Newell (4), David Yates (5–8) </p>
+			<p>Realese date: 2001–2011 </p>
+ 			<p> Length: 1179 minutes </p>
+			<p> Category: fiction  </p>
+			</br>
+		</font>
+		</h6>
+	<p class="description">
+    Harry Potter is a film series based on the eponymous novels by J. K. Rowling. The series is distributed by Warner Bros and 
+consists of eight fantasy films, beginning with Harry Potter and the Philosopher's Stone (2001) and culminating with Harry Potter 
+and the Deathly Hallows – Part 2 (2011). A spin-off prequel series that will consist of five films started with Fantastic Beasts 
+and Where to Find Them (2016), marking the beginning of the Wizarding World shared media franchise.
+The series was mainly produced by David Heyman, and stars Daniel Radcliffe, Rupert Grint, and Emma Watson as the three leading 
+characters: Harry Potter, Ron Weasley, and Hermione Granger. Four directors worked on the series: Chris Columbus, Alfonso Cuarón, 
+Mike Newell, and David Yates. Michael Goldenberg wrote the screenplay for Harry Potter and the Order of the Phoenix (2007), 
+while the remaining films' screenplays were written by Steve Kloves. Production took place over ten years, with the main story 
+arc following Harry's quest to overcome his arch-enemy Lord Voldemort. Harry Potter and the Deathly Hallows, the seventh and
+ final novel in the series, was adapted into two feature-length parts. Part 1 was released in November 2010, and Part 2 was 
+released in July 2011. Deathly Hallows – Part 1, Philosopher's Stone, and Deathly Hallows – Part 2 are among the 50 
+highest-grossing films of all time, and ranking them as the 48th-, 47th-, and 13th-highest-grossing films, with Philosopher's
+ Stone and Deathly Hallows – Part 2 grossed over $1 billion. Without inflation adjustment, it is the third highest-grossing 
+film series with $7.7 billion in worldwide receipts. </p>
+    </div>
+</div> <!-- фильм конец -->
+     
+	<br>
+    
+	<div class="row" style="padding-left:0%;padding-right:0%">
+      <h4 style="color: #FFFFFF">
+        <font face="Tahoma Regular">Sounds</font> <!-- это саунтреки -->
+      </h4>
+    </div>
+    <br>
+	<div>
+		<div class="row" style="padding-left:0%;padding-right:0%">
+			<div class="col-md-3"> <!-- песенка1 -->
+				<div class="row" style="padding-left:0%;padding-right:0%">
+					<div class="col-md-2";class="row align-items-center">
+					<span><img class="card-img-top"
+					src="assets/music.png" alt="Italian Trulli" style="width:40px; height:40px ;"></span>
+					</div>
+					<div class="col-md-10">
+						<h6 style="color: #FFFFFF">
+						<font face="Tahoma Regular"> Monsters Under the Bed - TalekeeperStudios in Suspense Dark
+</font>
+						</h6>
+						<p class="description">Listen</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3"> <!-- песенка2 -->
+			<div class="row" style="padding-left:0%;padding-right:0%">
+					<div class="col-md-2";class="row align-items-center">
+						<span><img class="card-img-top"
+				src="assets/music.png" alt="Italian Trulli" style="width:40px; height:40px ;"></span>
+					</div>
+					<div class="col-md-10">
+						<h6 style="color: #FFFFFF">
+			<font face="Tahoma Regular">Christmas Is Here -  DenYeletskykh in Holiday Seasonal
+ </font>
+			</h6>
+            <p class="description">Listen</p>
+					</div>
+					</div>
+			</div>
+			<div class="col-md-3"> <!-- песенка -->
+				 <div class="row" style="padding-left:0%;padding-right:0%">
+					<div class="col-md-2";class="row align-items-center">
+						<span><img class="card-img-top"
+				src="assets/music.png" alt="Italian Trulli" style="width:40px; height:40px ;"></span>
+					</div>
+					<div class="col-md-10">
+						<h6 style="color: #FFFFFF">
+			<font face="Tahoma Regular">Spooky Halloween - stardiva in Suspense Dark
+ </font>
+			</h6>
+            <p class="description">Listen</p>
+					</div>
+					</div>
+</div>
+			<div class="col-md-3"> <!-- песенка -->
+			<div class="row" style="padding-left:0%;padding-right:0%">
+					<div class="col-md-2";class="row align-items-center">
+						<span><img class="card-img-top"
+				src="assets/music.png" alt="Italian Trulli" style="width:40px; height:40px ;"></span>
+					</div>
+					<div class="col-md-10">
+						<h6 style="color: #FFFFFF">
+			<font face="Tahoma Regular">Magic Secret Ghosts - Keith Fane in Suspense Dark
+ </font>
+			</h6>
+            <p class="description">Listen</p>
+					</div>
+					</div>
+			</div>
+			
+		</div>
+		
+		<div class="row" style="padding-left:0%;padding-right:0%">
+			<div class="col-md-3"> <!-- песенка1 -->
+				<div class="row" style="padding-left:0%;padding-right:0%">
+					<div class="col-md-2";class="row align-items-center">
+					<span><img class="card-img-top"
+					src="assets/music.png" alt="Italian Trulli" style="width:40px; height:40px ;"></span>
+					</div>
+					<div class="col-md-10">
+						<h6 style="color: #FFFFFF">
+						<font face="Tahoma Regular">Dramatic Orchestral Film Trailer - delgibbons in Dramatic Action Adventure
+ </font>
+						</h6>
+						<p class="description">Listen</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3"> <!-- песенка2 -->
+			<div class="row" style="padding-left:0%;padding-right:0%">
+					<div class="col-md-2";class="row align-items-center">
+						<span><img class="card-img-top"
+				src="assets/music.png" alt="Italian Trulli" style="width:40px; height:40px ;"></span>
+					</div>
+					<div class="col-md-10">
+						<h6 style="color: #FFFFFF">
+			<font face="Tahoma Regular">A Magical Dream - TalekeeperStudios in Cinematic
+ </font>
+			</h6>
+            <p class="description">Listen</p>
+					</div>
+					</div>
+			</div>
+			<div class="col-md-3"> <!-- песенка -->
+				 <div class="row" style="padding-left:0%;padding-right:0%">
+					<div class="col-md-2";class="row align-items-center">
+						<span><img class="card-img-top"
+				src="assets/music.png" alt="Italian Trulli" style="width:40px; height:40px ;"></span>
+					</div>
+					<div class="col-md-10">
+						<h6 style="color: #FFFFFF">
+			<font face="Tahoma Regular">Christmas Tale - CyrilNikitin in Children S
+ </font>
+			</h6>
+            <p class="description">Listen</p>
+					</div>
+					</div>
+
+			
+	<br>
+	<div class="row" style="padding-left:0%;padding-right:0%">
+      <h4 style="color: #FFFFFF">
+        <font face="Tahoma Regular">Phrases</font> <!-- это цитаты -->
+      </h4>
+    </div>
+	<br>
+	<div class="input-group-append row" style="padding-left:0%;padding-right:0%">
+            <img class="rounded float-left" src="assets/quote2.png" alt="Facebook" style="height:30px;width:30px">
+            <h5 class=" text" style="color: #FFFFFF;padding-left:2%">
+                <font face="Myriad Pro Regular">
+                    «I’ll be in my bedroom, making no noise and pretending I’m not there». &copy; Mia</font>
+            </h5>
+        </div>
+        <br>
+        <div class="input-group-append row" style="padding-left:0%;padding-right:0%">
+            <img class=" rounded float-left" src="assets/quote2.png" alt="Facebook" style="height:30px;width:30px">
+            <h5 class=" text" style="color: #FFFFFF;padding-left:2%">
+                <font face="Myriad Pro Regular">
+                    «It is our choices, Harry, that show what we truly are, far more than our abilities». &copy; Joe </font>
+            </h5>
+        </div>
+        <br>
+        <div class="input-group-append row" style="padding-left:0%;padding-right:0%">
+            <img class="rounded float-left" src="assets/quote2.png" alt="Facebook" style="height:30px;width:30px;">
+            <h5 class=" text" style="color: #FFFFFF;padding-left:2%">
+                <font face="Myriad Pro Regular">
+                    «Just because you have the emotional range of a teaspoon doesn’t mean we all have». &copy; Joe </font>
+            </h5>
+        </div>
+	<br>
+	<div class="row" style="padding-left:0%;padding-right:0%">
+      <h4 style="color: #FFFFFF">
+        <font face="Tahoma Regular">Actors</font> <!-- это актеры-->
+      </h4>
+	<br> Michael Gambon, Alan Rickman, Maggie Smith, Ralph Fiennes, Helena Bonham Carter, Gary Oldman, Jason Isaacs, David Thewlis, Robbie Coltrane, Brendan Gleeson and others.
+	<br>
+	 <br>
+	 <br>
+	 <br>
+	<br>
+    </form>
+
+
+    </div>
+
+    <!-- Footer -->
+
+    <div class="bg-dark" id="footer" style="position: fixed;
+			left: 0; bottom: 0;
+			padding: 20px;
+			color: #FFFFFF;
+			width: 100%;
+			height: 60px;"> &copy; <font face="Tahoma Regular">Privacy Policy</font>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/macy@2"></script>
+</body>
+
+</html>
